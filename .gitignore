@@ -9,7 +9,7 @@ venv/
 *.egg-info/
 
 # Streamlit
-.streamlit/secrets.toml
+# .streamlit/secrets.toml  # Allowing for USE_GCS config
 
 # OS
 .DS_Store
