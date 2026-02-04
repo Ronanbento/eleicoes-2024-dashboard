@@ -17,9 +17,7 @@ PARTY_COLORS = {
     'AVANTE': '#2eacb2', 'CIDADANIA': '#ec008c', 'DC': '#c89721', 'DEM': '#8CC63E',
     'MDB': '#009959', 'NOVO': '#ec671c', 'PCB': '#a8231c', 'PCDOB': '#800314',
     'PCO': '#9F030A', 'PDS': '#0067A5', 'PDT': '#FE8E6D', 'PEN': '#4AA561',
-    'PFL': '#8CC63E', 'PHS': '#8A191E', 'PL': '#30306C', '
-
-': '#FF69B4',
+    'PFL': '#8CC63E', 'PHS': '#8A191E', 'PL': '#30306C', 'PMB': '#FF69B4',
     'PMN': '#CF7676', 'PODE': '#00d663', 'PP': '#54b8ea', 'PPL': '#9ACD32',
     'PPS': '#ec008c', 'PRB': '#005CA9', 'REPUBLICANOS': '#005CA9',
     'PROS': '#f48c24', 'PRTB': '#2cb53f', 'PSB': '#FFCC00', 'PSC': '#006f41',
